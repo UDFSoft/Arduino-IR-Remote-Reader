@@ -28,7 +28,9 @@ When holding the VS1838B with the **IR window facing you**, pins from left to ri
 VS1838B Arduino
 
 OUT ────▶ D2
+
 GND ────▶ GND
+
 VCC ────▶ 5V
 
 
