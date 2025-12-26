@@ -6,6 +6,11 @@ This project is intended for beginners and for anyone who wants to quickly test 
 
 ---
 
+## 🎥 Demo Video
+
+[![IR Remote Demo](https://img.youtube.com/vi/MS42ro7ZhJg/0.jpg)](https://www.youtube.com/watch?v=MS42ro7ZhJg)
+
+
 ## 🔧 Hardware Used
 
 - Arduino (Uno / Nano / Mega, etc.)
