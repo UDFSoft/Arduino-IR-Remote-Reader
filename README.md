@@ -119,7 +119,10 @@ IrReceiver.printIRResultRawFormatted(&Serial, true);
  * Build a universal IR remote
  * Port the project to ESP32 / Wi-Fi / MQTT
 
-📜 License
+## 📷 Photo
+![<img src="photo_2025-12-26_10-51-10.jpg" alt="Device preview" width="100">](photo_2025-12-26_10-51-10.jpg)
+
+## 📜 License
 
 ```
 Apache License 2.0
